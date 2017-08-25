@@ -1,0 +1,25 @@
+猜字符游戏：程序 = 数据结构 + 算法
+	一：设计数据结构
+		1.char[] chs;			//存储随机生成的字符数组
+		2.char[] input;			//用户猜的字符数组
+		3.int letterRight;		//字符猜对的个数
+		  int positionRight;	//位置对的个数
+		  int[] result;			//比较后的结果
+		4.int score;			//得分
+		5.int countError;		//猜错的次数
+	二：设计程序结构（方法、类、接口）
+		1.main方法
+			public static void main(String[] args){
+			}
+		2.随机生成一组字符数组
+			public static char[] generateRandomChar(){
+				char[] chs = new char[5];
+				return  chs;
+			}
+		3.对比两个字符数组
+			public static int[] check(char[] chs, char[] input){
+				int[] result = new int[2];
+				return result[];
+			}
+	三：算法
+		顺序，分支，循环及各种运算

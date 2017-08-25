@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="day000"/>
+	<classpathentry kind="src" path="day001"/>
+	<classpathentry kind="src" path="day002"/>
+	<classpathentry kind="src" path="day003"/>
+	<classpathentry kind="src" path="day004"/>
+	<classpathentry kind="src" path="day005"/>
+	<classpathentry kind="src" path="day006"/>
+	<classpathentry kind="src" path="day007"/>
+	<classpathentry kind="src" path="day008"/>
+	<classpathentry kind="src" path="day009"/>
+	<classpathentry kind="src" path="day010"/>
+	<classpathentry kind="src" path="day011"/>
+	<classpathentry kind="src" path="day012"/>
+	<classpathentry kind="src" path="day013"/>
+	<classpathentry kind="src" path="lantern_festival_task"/>
+	<classpathentry kind="src" path="winter_vacation_task"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
